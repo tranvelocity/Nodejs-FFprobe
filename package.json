@@ -1,0 +1,20 @@
+{
+  "name": "Nodejs-FFprobe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "FFprobeExample": "node FFprobeExample.js",
+    "FFmpegExample": "node FFmpegExample.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffprobe": "^1.1.2",
+    "ffprobe-static": "^3.1.0",
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "keywords": [],
+  "description": ""
+}
